@@ -4,13 +4,9 @@ Hi there!
 
 My name is Galih. I'm a third year Computer Science undergraduate student. I love developing emotional recognition and tune hyperparameters for optimization.
 
-## 🌐Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benidictusgalihmp) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@benidictusgalih) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BenidictusG)
-
 # 💻Tech Stack
 
-<details><summary>click to expand</summary><br/>
+<details><summary>Click to expand</summary><br/>
 
 ### Programming Language
 
@@ -43,6 +39,10 @@ My name is Galih. I'm a third year Computer Science undergraduate student. I lov
 ![](https://github-readme-stats.vercel.app/api?username=benidictusgalihmp&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=benidictusgalihmp&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=benidictusgalihmp&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🌐Find me on :
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benidictusgalihmp) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@benidictusgalih) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BenidictusG)
 
 ---
 
