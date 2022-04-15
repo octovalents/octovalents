@@ -2,7 +2,7 @@
 
 Hi there!
 
-My name is Galih. I'm a third year Computer Science undergraduate student. I love developing emotional recognition and tune hyperparameters for optimization.
+My name is Galih. I'm a third year Computer Science undergraduate student. I love developing new things about image recognition.
 
 # 💻Tech Stack
 
