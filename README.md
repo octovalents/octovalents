@@ -2,7 +2,7 @@
 
 Hi there!
 
-My name is Galih. I'm a third year Computer Science undergraduate student. I love developing new things about image recognition.
+My name is Benidictus Galih, a final year undergraduate student from Institut Teknologi Bandung. I love developing machine learning projects using Tensorflow. I explored my interest in Google Bangkit Academy and graduated with a professional certification, Tensorflow Developer. Visit my website to know more.
 
 # 💻Tech Stack
 
