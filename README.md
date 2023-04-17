@@ -6,6 +6,6 @@
 
 ## 💰 Support me by Donating
 
-[![BuyMeACoffee](https://streamlabs.com/kazenlgrande/tip)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://streamlabs.com/kazenlgrande/tip)
 
 \*By donating, you acknowledge and agree that your donation is non-refundable. You also agree not to issue a chargeback or dispute the payment with your payment provider.
