@@ -6,6 +6,6 @@
 
 ## 💰 Support me by Donating
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://streamlabs.com/kazenlgrande/tip)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://streamlabs.com/octovalents/tip)
 
-\*By donating, you acknowledge and agree that your donation is non-refundable. You also agree not to issue a chargeback or dispute the payment with your payment provider.
+\*By completing the transaction and donation, you certify that you are the rightful owner of these funds being donated and acknowledge that donations are non-refundable and final. You also acknowledge that no products or services will be exchanged or provided in return for your donation. Thank you for your support!
